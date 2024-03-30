@@ -1,4 +1,4 @@
-# 5.e
+# 5.
 
 # Function that takes input from the user and returns it
 def Read():
