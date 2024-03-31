@@ -1,0 +1,54 @@
+{
+    "expenses": [
+        {
+            "day": 1,
+            "amount": 7400,
+            "type": "Type 1"
+        },
+        {
+            "day": 2,
+            "amount": 9300,
+            "type": "Type 2"
+        },
+        {
+            "day": 10,
+            "amount": 900,
+            "type": "Type 3"
+        },
+        {
+            "day": 18,
+            "amount": 2400,
+            "type": "Type 4"
+        },
+        {
+            "day": 21,
+            "amount": 7200,
+            "type": "Type 5"
+        },
+        {
+            "day": 28,
+            "amount": 1200,
+            "type": "Type 6"
+        },
+        {
+            "day": 19,
+            "amount": 5400,
+            "type": "Type 7"
+        },
+        {
+            "day": 8,
+            "amount": 3400,
+            "type": "Type 8"
+        },
+        {
+            "day": 29,
+            "amount": 1000,
+            "type": "Type 9"
+        },
+        {
+            "day": 16,
+            "amount": 1600,
+            "type": "Type 10"
+        }
+    ]
+}
